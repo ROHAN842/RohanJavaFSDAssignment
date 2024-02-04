@@ -2,17 +2,18 @@ package com.hexaware.restjpacapstone.service;
 
 import java.util.List;
 
+import com.hexaware.restjpacapstone.dto.BusOperatorDTO;
 import com.hexaware.restjpacapstone.entity.BusOperator;
 
 public interface IBusOperatorService {
     // Adds a new bus route
-    public BusOperator addBusRoute(BusOperator busRoute);
+    public BusOperator addBusRoute(BusOperatorDTO busRouteDTO);
 
     // Updates an existing bus route
-    public BusOperator updateBusRoute(BusOperator busRoute);
+    public BusOperator updateBusRoute(int operatorId, BusOperatorDTO busRouteDTO);
     
     //Get BusRoute by id
-	public BusOperator getBusOperatorById(int operatorId);
+	public BusOperatorDTO getBusOperatorById(int operatorId);
 
     // Get all BusRoutes
 	public List<BusOperator> getAllBusRoutes();
