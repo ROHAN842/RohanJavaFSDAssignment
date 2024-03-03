@@ -1,0 +1,226 @@
+[32m2024-02-27 00:04:13.690[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 00:04:21.277[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-10] Get all players data
+[32m2024-02-27 00:07:45.909[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Create player method
+[32m2024-02-27 00:07:51.027[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get all players data
+[32m2024-02-27 00:13:22.842[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Create player method
+[32m2024-02-27 00:16:10.169[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Get all players data
+[32m2024-02-27 00:17:36.537[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Create player method
+[32m2024-02-27 00:17:44.031[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-10] Get all players data
+[32m2024-02-27 00:23:43.706[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 00:24:23.198[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Create player method
+[32m2024-02-27 00:24:29.265[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get all players data
+[32m2024-02-27 00:34:03.259[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Create player method
+[32m2024-02-27 00:34:04.871[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Get all players data
+[32m2024-02-27 01:09:03.294[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 01:10:07.569[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Create player method
+[32m2024-02-27 01:10:12.882[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Get all players data
+[32m2024-02-27 01:40:06.785[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-5] Get all players data
+[32m2024-02-27 01:40:31.643[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Get all players data
+[32m2024-02-27 01:40:45.871[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Get all players data
+[32m2024-02-27 02:45:16.928[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 03:10:22.283[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Get all players data
+[32m2024-02-27 03:10:47.909[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 03:14:38.188[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get all players data
+[32m2024-02-27 03:18:13.413[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Player get by Id method
+[32m2024-02-27 03:18:41.352[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-8] Get all players data
+[32m2024-02-27 03:18:49.741[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Player get by Id method
+[32m2024-02-27 03:32:13.936[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(253)-127.0.0.1] Application shutdown requested.
+[32m2024-02-27 03:32:13.958[0;39m [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(253)-127.0.0.1] Stopping service [Tomcat]
+[32m2024-02-27 03:32:13.960[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(253)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+[32m2024-02-27 03:32:13.976[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(253)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 03:32:13.982[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(253)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-02-27 03:32:13.987[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(253)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-02-27 03:33:03.980[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Starting CricketassignmentCodingchallengeApplication using Java 17.0.9 with PID 18152 (D:\Rest_Apis\cricketassignment-codingchallenge\target\classes started by Rohan Modi in D:\Rest_Apis\cricketassignment-codingchallenge)
+[32m2024-02-27 03:33:03.982[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-02-27 03:33:04.383[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-02-27 03:33:04.423[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interface.
+[32m2024-02-27 03:33:04.756[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+[32m2024-02-27 03:33:04.765[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-02-27 03:33:04.765[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.18]
+[32m2024-02-27 03:33:04.873[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-02-27 03:33:04.874[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 860 ms
+[32m2024-02-27 03:33:04.967[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-02-27 03:33:05.001[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.2.20.Final
+[32m2024-02-27 03:33:05.003[0;39m [INFO] org.hibernate.cfg.Environment [main] HHH000406: Using bytecode reflection optimizer
+[32m2024-02-27 03:33:05.201[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-02-27 03:33:05.218[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-02-27 03:33:05.449[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1a7e799e
+[32m2024-02-27 03:33:05.451[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-02-27 03:33:06.099[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-02-27 03:33:06.138[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 03:33:06.307[0;39m [INFO] org.springframework.data.jpa.repository.query.QueryEnhancerFactory [main] Hibernate is in classpath; If applicable, HQL parser will be used.
+[32m2024-02-27 03:33:06.565[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-02-27 03:33:06.795[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+[32m2024-02-27 03:33:06.800[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Started CricketassignmentCodingchallengeApplication in 3.117 seconds (process running for 4.071)
+[32m2024-02-27 03:33:40.163[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[32m2024-02-27 03:33:40.163[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+[32m2024-02-27 03:33:40.163[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+[32m2024-02-27 03:33:40.201[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Player get by Id method
+[32m2024-02-27 03:33:46.976[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Get player by name method
+[32m2024-02-27 03:33:52.095[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Get all players data
+[32m2024-02-27 03:34:02.665[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get player by name method
+[32m2024-02-27 03:34:06.799[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-5] Player get by Id method
+[32m2024-02-27 03:34:10.887[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Get all players data
+[32m2024-02-27 03:34:20.446[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Player get by Id method
+[32m2024-02-27 03:34:23.406[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-8] Get all players data
+[32m2024-02-27 03:34:29.955[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get player by name method
+[32m2024-02-27 03:56:48.205[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 03:56:54.506[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Player get by Id method
+[32m2024-02-27 03:57:17.661[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-5] Get all players data
+[32m2024-02-27 03:57:32.062[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Get all players data
+[32m2024-02-27 03:58:19.581[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Player get by Id method
+[32m2024-02-27 04:07:24.287[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(44)-127.0.0.1] Application shutdown requested.
+[32m2024-02-27 04:07:24.299[0;39m [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(44)-127.0.0.1] Stopping service [Tomcat]
+[32m2024-02-27 04:07:24.299[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(44)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+[32m2024-02-27 04:07:24.299[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(44)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 04:07:24.299[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(44)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-02-27 04:07:24.315[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(44)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-02-27 04:07:39.269[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Starting CricketassignmentCodingchallengeApplication using Java 17.0.9 with PID 4432 (D:\Rest_Apis\cricketassignment-codingchallenge\target\classes started by Rohan Modi in D:\Rest_Apis\cricketassignment-codingchallenge)
+[32m2024-02-27 04:07:39.271[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-02-27 04:07:39.683[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-02-27 04:07:39.724[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 32 ms. Found 1 JPA repository interface.
+[32m2024-02-27 04:07:40.047[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+[32m2024-02-27 04:07:40.055[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-02-27 04:07:40.055[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.18]
+[32m2024-02-27 04:07:40.151[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-02-27 04:07:40.151[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 848 ms
+[32m2024-02-27 04:07:40.251[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-02-27 04:07:40.295[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.2.20.Final
+[32m2024-02-27 04:07:40.296[0;39m [INFO] org.hibernate.cfg.Environment [main] HHH000406: Using bytecode reflection optimizer
+[32m2024-02-27 04:07:40.495[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-02-27 04:07:40.513[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-02-27 04:07:40.749[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3212bfd
+[32m2024-02-27 04:07:40.750[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-02-27 04:07:41.393[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-02-27 04:07:41.443[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 04:07:41.612[0;39m [INFO] org.springframework.data.jpa.repository.query.QueryEnhancerFactory [main] Hibernate is in classpath; If applicable, HQL parser will be used.
+[32m2024-02-27 04:07:41.891[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-02-27 04:07:42.114[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+[32m2024-02-27 04:07:42.120[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Started CricketassignmentCodingchallengeApplication in 3.131 seconds (process running for 3.858)
+[32m2024-02-27 04:07:51.381[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[32m2024-02-27 04:07:51.382[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+[32m2024-02-27 04:07:51.382[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+[32m2024-02-27 04:07:51.410[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 04:07:54.201[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Get all players data
+[32m2024-02-27 04:15:33.684[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(17)-127.0.0.1] Application shutdown requested.
+[32m2024-02-27 04:15:33.693[0;39m [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(17)-127.0.0.1] Stopping service [Tomcat]
+[32m2024-02-27 04:15:33.694[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(17)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+[32m2024-02-27 04:15:33.700[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(17)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 04:15:33.701[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(17)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-02-27 04:15:33.707[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(17)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-02-27 04:15:35.845[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Starting CricketassignmentCodingchallengeApplication using Java 17.0.9 with PID 21268 (D:\Rest_Apis\cricketassignment-codingchallenge\target\classes started by Rohan Modi in D:\Rest_Apis\cricketassignment-codingchallenge)
+[32m2024-02-27 04:15:35.847[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-02-27 04:15:36.247[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-02-27 04:15:36.287[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 33 ms. Found 1 JPA repository interface.
+[32m2024-02-27 04:15:36.615[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+[32m2024-02-27 04:15:36.623[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-02-27 04:15:36.623[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.18]
+[32m2024-02-27 04:15:36.705[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-02-27 04:15:36.706[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 825 ms
+[32m2024-02-27 04:15:36.800[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-02-27 04:15:36.836[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.2.20.Final
+[32m2024-02-27 04:15:36.837[0;39m [INFO] org.hibernate.cfg.Environment [main] HHH000406: Using bytecode reflection optimizer
+[32m2024-02-27 04:15:37.017[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-02-27 04:15:37.033[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-02-27 04:15:37.257[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14292d71
+[32m2024-02-27 04:15:37.259[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-02-27 04:15:37.884[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-02-27 04:15:38.377[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 04:15:38.544[0;39m [INFO] org.springframework.data.jpa.repository.query.QueryEnhancerFactory [main] Hibernate is in classpath; If applicable, HQL parser will be used.
+[32m2024-02-27 04:15:38.799[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-02-27 04:15:39.020[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+[32m2024-02-27 04:15:39.026[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Started CricketassignmentCodingchallengeApplication in 3.461 seconds (process running for 3.977)
+[32m2024-02-27 04:16:10.673[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[32m2024-02-27 04:16:10.673[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+[32m2024-02-27 04:16:10.673[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+[32m2024-02-27 04:16:10.705[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 04:16:16.432[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Get all players data
+[32m2024-02-27 04:16:19.151[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Player get by Id method
+[32m2024-02-27 04:18:55.373[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-8] Player get by Id method
+[32m2024-02-27 04:22:52.363[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-10] Player get by Id method
+[32m2024-02-27 04:23:08.034[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Player get by Id method
+[32m2024-02-27 04:24:50.112[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(17)-127.0.0.1] Application shutdown requested.
+[32m2024-02-27 04:24:50.129[0;39m [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(17)-127.0.0.1] Stopping service [Tomcat]
+[32m2024-02-27 04:24:50.129[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(17)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+[32m2024-02-27 04:24:50.129[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(17)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 04:24:50.129[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(17)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-02-27 04:24:50.143[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(17)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-02-27 09:31:54.975[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Starting CricketassignmentCodingchallengeApplication using Java 17.0.9 with PID 8560 (D:\Rest_Apis\cricketassignment-codingchallenge\target\classes started by Rohan Modi in D:\Rest_Apis\cricketassignment-codingchallenge)
+[32m2024-02-27 09:31:55.120[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-02-27 09:31:55.690[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-02-27 09:31:55.733[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interface.
+[32m2024-02-27 09:31:56.139[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+[32m2024-02-27 09:31:56.280[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-02-27 09:31:56.281[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.18]
+[32m2024-02-27 09:31:56.400[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-02-27 09:31:56.401[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1248 ms
+[32m2024-02-27 09:31:56.505[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-02-27 09:31:56.547[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.2.20.Final
+[32m2024-02-27 09:31:56.549[0;39m [INFO] org.hibernate.cfg.Environment [main] HHH000406: Using bytecode reflection optimizer
+[32m2024-02-27 09:31:56.762[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-02-27 09:31:56.784[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-02-27 09:31:57.034[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32a033b6
+[32m2024-02-27 09:31:57.035[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-02-27 09:31:57.734[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-02-27 09:31:57.782[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 09:31:57.975[0;39m [INFO] org.springframework.data.jpa.repository.query.QueryEnhancerFactory [main] Hibernate is in classpath; If applicable, HQL parser will be used.
+[32m2024-02-27 09:31:58.283[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-02-27 09:31:58.577[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+[32m2024-02-27 09:31:58.583[0;39m [INFO] com.hexaware.cricket.CricketassignmentCodingchallengeApplication [main] Started CricketassignmentCodingchallengeApplication in 3.918 seconds (process running for 4.504)
+[32m2024-02-27 09:33:06.145[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[32m2024-02-27 09:33:06.147[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+[32m2024-02-27 09:33:06.154[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+[32m2024-02-27 09:34:38.267[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Player get by Id method
+[32m2024-02-27 09:52:40.063[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Player get by Id method
+[32m2024-02-27 09:52:47.483[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-8] Get player by name method
+[32m2024-02-27 09:53:27.647[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 09:53:31.848[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Player delete method
+[32m2024-02-27 09:53:31.887[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 09:53:37.439[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Get all players data
+[32m2024-02-27 09:53:51.674[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get player by name method
+[32m2024-02-27 09:53:54.402[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-5] Get player by name method
+[32m2024-02-27 10:16:17.236[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Get all players data
+[32m2024-02-27 10:20:08.159[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 10:20:30.616[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-10] Get all players data
+[32m2024-02-27 10:22:36.439[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 10:40:57.163[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get all players data
+[32m2024-02-27 10:41:10.398[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Player delete method
+[32m2024-02-27 10:41:10.427[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Get all players data
+[32m2024-02-27 11:36:20.728[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 11:39:40.627[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Get all players data
+[32m2024-02-27 12:02:50.650[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Get all players data
+[32m2024-02-27 12:02:55.607[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Player get by Id method
+[32m2024-02-27 12:02:59.706[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-5] Get all players data
+[32m2024-02-27 12:03:07.117[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Get player by name method
+[32m2024-02-27 12:04:36.998[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-8] Get all players data
+[32m2024-02-27 13:17:21.891[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-10] Player get by Id method
+[32m2024-02-27 13:35:34.370[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Get all players data
+[32m2024-02-27 13:35:45.963[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get player by name method
+[32m2024-02-27 13:36:03.586[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-3] Get all players data
+[32m2024-02-27 13:36:10.956[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Player get by Id method
+[32m2024-02-27 13:38:10.455[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Get all players data
+[32m2024-02-27 13:38:12.711[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-8] Player delete method
+[32m2024-02-27 13:38:12.726[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 13:38:14.411[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Player delete method
+[32m2024-02-27 13:38:14.430[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 15:33:52.210[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get all players data
+[32m2024-02-27 15:36:30.537[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Player get by Id method
+[32m2024-02-27 15:36:46.772[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Get player by name method
+[32m2024-02-27 15:38:41.914[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 15:38:44.925[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-10] Get all players data
+[32m2024-02-27 16:15:12.095[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 16:29:41.570[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-4] Get all players data
+[32m2024-02-27 19:59:17.504[0;39m [WARN] com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h56m43s148ms576µs100ns).
+[32m2024-02-27 20:08:18.093[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-6] Get all players data
+[32m2024-02-27 20:08:33.502[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-7] Player get by Id method
+[32m2024-02-27 20:20:10.440[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-9] Get all players data
+[32m2024-02-27 20:20:31.270[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-10] Player get by Id method
+[32m2024-02-27 20:21:30.454[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-2] Get all players data
+[32m2024-02-27 20:21:49.735[0;39m [INFO] com.hexaware.cricket.restcontroller.PlayerRestController [http-nio-8080-exec-1] Get all players data
+[32m2024-02-27 22:27:08.321[0;39m [WARN] com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h4m50s486ms118µs).
+[32m2024-02-27 23:34:26.911[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(616)-127.0.0.1] Application shutdown requested.
+[32m2024-02-27 23:34:26.989[0;39m [INFO] org.apache.catalina.core.StandardService [RMI TCP Connection(616)-127.0.0.1] Stopping service [Tomcat]
+[32m2024-02-27 23:34:26.992[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(616)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+[32m2024-02-27 23:34:27.052[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(616)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-02-27 23:34:27.074[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(616)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-02-27 23:34:27.090[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(616)-127.0.0.1] HikariPool-1 - Shutdown completed.
